@@ -1,0 +1,2 @@
+# ZPModalConvert_storyboard
+介绍如何在storyboard文件中利用segue的modal方式来实现两个视图控制器之间的转场。
